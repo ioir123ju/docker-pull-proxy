@@ -1,1 +1,1 @@
-pytorch/pytorch:2.3.0-cuda12.1-cudnn8-runtime registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/pytorch:2.3.0-cuda12.1-cudnn8-runtime
+pytorch/torchserve:0.11.0-gpu registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/pytorch/torchserve:0.11.0-gpu
