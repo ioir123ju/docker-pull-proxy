@@ -1,1 +1,1 @@
-pytorch/torchserve:0.11.0-gpu registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/torchserve:0.11.0-gpu
+lumaapi/luma-api:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/lumaapi/luma-api:latest
