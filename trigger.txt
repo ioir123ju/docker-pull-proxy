@@ -1,1 +1,1 @@
-ydlhero/chatgpt-web-midjourney-proxy:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/chatgpt-web-midjourney-proxy:latest
+lumaapi/luma-api:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/luma-api:latest
