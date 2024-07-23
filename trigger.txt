@@ -1,1 +1,1 @@
-opendronemap/webodm_webapp:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/webodm_webapp:latest
+redis:7.0.10 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/redis:7.0.10
