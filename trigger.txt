@@ -1,1 +1,1 @@
-lumaapi/luma-api:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/luma-api:latest
+opendronemap/webodm_db:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/webodm_db:latest
