@@ -1,1 +1,1 @@
-opendronemap/webodm_db:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/webodm_db:latest
+opendronemap/webodm_webapp:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/webodm_webapp:latest
