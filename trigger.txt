@@ -1,1 +1,1 @@
-redis:7.0.10 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/redis:7.0.10
+nvcr.io/nvidia/pytorch:24.02-py3 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/nvcr.io/nvidia/pytorch:24.02-py3
