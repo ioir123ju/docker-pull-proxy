@@ -1,1 +1,1 @@
-tjbtech1/airesearcher:v1 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/airesearcher:v1
+pytorch/pytorch:latest registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/pytorch:latest
