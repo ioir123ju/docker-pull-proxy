@@ -1,1 +1,1 @@
-whatcanyousee/verl:ngc-cu124-vllm0.8.5-sglang0.4.6.post5-mcore0.12.1-te2.3-deepseekv3 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/verl:ngc-cu124-vllm0.8.5
+nvidia/cuda:12.2.2-devel-ubuntu22.04 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/cuda:12.2.2-devel-ubuntu22.04
