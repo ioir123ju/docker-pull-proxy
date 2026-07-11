@@ -1,1 +1,1 @@
-ghcr.io/laude-institute/t-bench/python-3-13:20250620 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/python-3-13:20250620
+agentslastexam/ale-qemu:0.2.0 registry.cn-hangzhou.aliyuncs.com/uki_tuantuan/ale-qemu:0.2.0
